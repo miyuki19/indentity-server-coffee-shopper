@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{9
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{E4F53363-D986-4800-B2CF-F7574467688C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{2875E27D-DFC0-4B8B-8101-3575700222E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "Server\Server.csproj", "{2875E27D-DFC0-4B8B-8101-3575700222E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{C5E6131E-FCB7-4772-9617-30CE99BE8928}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{2875E27D-DFC0-4B8B-8101-3575700222E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2875E27D-DFC0-4B8B-8101-3575700222E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2875E27D-DFC0-4B8B-8101-3575700222E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E6131E-FCB7-4772-9617-30CE99BE8928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E6131E-FCB7-4772-9617-30CE99BE8928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E6131E-FCB7-4772-9617-30CE99BE8928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E6131E-FCB7-4772-9617-30CE99BE8928}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
